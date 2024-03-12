@@ -175,4 +175,9 @@ button[type=submit] {
     #zip {
         width: 20%;
     }
+    input[placeholder] {
+        font-family: "Merriweather", serif;
+        font-style: italic;
+        text-align: right; 
+    }
 }
